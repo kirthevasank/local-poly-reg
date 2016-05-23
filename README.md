@@ -2,7 +2,8 @@
 This is a Matlab implementation of local polynomial regression.
 
 ### Installation & Getting Started
-- Coming soon.
+Just add this directory to your current matlab workspace.
+See demo.m for some demos.
 
 ### Citation
 If you use this library in your academic work please cite the following paper. The
